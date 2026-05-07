@@ -11,7 +11,7 @@ Application Flutter de messagerie instantanée moderne avec Firebase 🔥
 
 ## 🚀 Présentation
 
-**chatapp_light** est une application Flutter complète de messagerie instantanée, intégrant des fonctionnalités avancées telles que l’envoi d’images, d’audios, les conversations de groupe, les statuts de messages, la gestion du statut en ligne/hors ligne, la modification et suppression des messages, et une page de profil personnalisable.
+**chatapp_light** est une application Flutter complète de messagerie instantanée, intégrant des fonctionnalités avancées telles que l’envoi d’images, d’audios, les conversations de groupe, les statuts de messages, la gestion du statut en ligne/hors ligne, la modification et suppression des messages, une page de profil personnalisable, l’indicateur “en train d’écrire”, ainsi que l’indicateur “en train d’enregistrer un audio”.
 
 Elle utilise **Firebase Authentication**, **Cloud Firestore**, **Firebase Storage**, **Firebase Messaging** et **Flutter Local Notifications** pour offrir une expérience fluide, moderne et performante.
 
@@ -46,6 +46,10 @@ Elle utilise **Firebase Authentication**, **Cloud Firestore**, **Firebase Storag
 - **Modifier un message** (texte)  
 - **Supprimer un message pour moi**  
 - **Supprimer un message pour tous** (comme WhatsApp)  
+
+### 📝 Indicateurs en temps réel
+- **En train d’écrire… ✍️**  
+- **En train d’enregistrer un audio… 🎙️**  
 
 ---
 
