@@ -144,10 +144,12 @@ Configurer Firebase Storage (images & audios)
 Activer Firestore et Authentication
 
 ### 4️⃣ Lancer l’application
-▶️ Sur Chrome (Web)
+▶️ Sur Chrome (Web) : 
+
 flutter run -d chrome
 
-▶️ Sur Android
+▶️ Sur Android : 
+
 flutter run -d android
 
 ---
@@ -175,4 +177,3 @@ Ahlam EL AMRANI
 Développeuse Mobile & Backend
 📍 ENIAB
 🔗 GitHub : https://github.com/ELAMRANIAhlam
->>>>>>> 5860daa822d9aa3b0d123a25e5a7ee1c513748cb
