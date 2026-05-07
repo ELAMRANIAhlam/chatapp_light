@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "366595702924",
+    "firebase_url": "https://chatapp-b1cc4-default-rtdb.firebaseio.com",
+    "project_id": "chatapp-b1cc4",
+    "storage_bucket": "chatapp-b1cc4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366595702924:android:6e37a54329675fbb163ba9",
+        "android_client_info": {
+          "package_name": "com.example.chatapp_light"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOPmKHSUw02rW9nF2jiwCunpIVjGb0V0M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
