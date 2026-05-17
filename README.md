@@ -1,21 +1,3 @@
-<<<<<<< HEAD
-# chatapp_light
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
 # 📱 chatapp_light  
 Application Flutter de messagerie instantanée moderne avec Firebase 🔥
 
@@ -29,7 +11,7 @@ Application Flutter de messagerie instantanée moderne avec Firebase 🔥
 
 ## 🚀 Présentation
 
-**chatapp_light** est une application Flutter complète de messagerie instantanée, intégrant des fonctionnalités avancées telles que l’envoi d’images, d’audios, les conversations de groupe, les statuts de messages, la gestion du statut en ligne/hors ligne, la modification et suppression des messages, et une page de profil personnalisable.
+**chatapp_light** est une application Flutter complète de messagerie instantanée, intégrant des fonctionnalités avancées telles que l’envoi d’images, d’audios, les conversations de groupe, les statuts de messages, la gestion du statut en ligne/hors ligne, la modification et suppression des messages, une page de profil personnalisable, l’indicateur “en train d’écrire”, ainsi que l’indicateur “en train d’enregistrer un audio”.
 
 Elle utilise **Firebase Authentication**, **Cloud Firestore**, **Firebase Storage**, **Firebase Messaging** et **Flutter Local Notifications** pour offrir une expérience fluide, moderne et performante.
 
@@ -64,6 +46,10 @@ Elle utilise **Firebase Authentication**, **Cloud Firestore**, **Firebase Storag
 - **Modifier un message** (texte)  
 - **Supprimer un message pour moi**  
 - **Supprimer un message pour tous** (comme WhatsApp)  
+
+### 📝 Indicateurs en temps réel
+- **En train d’écrire… ✍️**  
+- **En train d’enregistrer un audio… 🎙️**  
 
 ---
 
@@ -162,20 +148,56 @@ Configurer Firebase Storage (images & audios)
 Activer Firestore et Authentication
 
 ### 4️⃣ Lancer l’application
-▶️ Sur Chrome (Web)
+▶️ Sur Chrome (Web) : 
+
 flutter run -d chrome
 
-▶️ Sur Android
+▶️ Sur Android : 
+
 flutter run -d android
 
 ---
 
-## 🖼️ Screenshots
+## 📸 Screenshots
 
-![Login](screenshots/login.png)
-![Chat](screenshots/chat.png)
-![Group Chat](screenshots/group_chat.png)
-![Profile](screenshots/profile.png)
+### 🔐 Login
+![Login](screenshots/login.jpeg)
+
+### 📝 Register
+![Register](screenshots/register.jpeg)
+
+### 🏠 Home (Conversations)
+![Home](screenshots/home.jpeg)
+
+### 💬 Chat 1-to-1
+![Chat](screenshots/chat.jpeg)
+
+### 👥 Group Chat
+![Group Chat](screenshots/group_chat.jpeg)
+
+### 👤 Profil utilisateur
+![Profile](screenshots/profile.jpeg)
+
+### ✏️ Modifier le profil
+![Edit Profile](screenshots/group.jpeg)
+
+### 🎙️ Enregistrement audio
+![Audio Recording](screenshots/audio_recording.jpeg)
+
+### ✍️ Indicateur "En train d'écrire"
+![Typing Indicator](screenshots/typing_indicator.jpeg)
+
+### 🔍 Recherche
+![Search](screenshots/search.jpeg)
+
+### 🚪 Logout
+![Logout](screenshots/logout.jpeg)
+
+### ⚙️ Paramètres
+![Settings](screenshots/settings.jpeg)
+
+### 🌙 Mode sombre
+![Dark Mode](screenshots/darck_mode.jpeg
 
 ---
 
@@ -193,4 +215,3 @@ Ahlam EL AMRANI
 Développeuse Mobile & Backend
 📍 ENIAB
 🔗 GitHub : https://github.com/ELAMRANIAhlam
->>>>>>> 5860daa822d9aa3b0d123a25e5a7ee1c513748cb
