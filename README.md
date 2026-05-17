@@ -161,43 +161,43 @@ flutter run -d android
 ## 📸 Screenshots
 
 ### 🔐 Login
-![Login](screenshots/login.png)
+![Login](screenshots/login.jpeg)
 
 ### 📝 Register
-![Register](screenshots/register.png)
+![Register](screenshots/register.jpeg)
 
 ### 🏠 Home (Conversations)
-![Home](screenshots/home.png)
+![Home](screenshots/home.jpeg)
 
 ### 💬 Chat 1-to-1
-![Chat](screenshots/chat.png)
+![Chat](screenshots/chat.jpeg)
 
 ### 👥 Group Chat
-![Group Chat](screenshots/group_chat.png)
+![Group Chat](screenshots/group_chat.jpeg)
 
 ### 👤 Profil utilisateur
-![Profile](screenshots/profile.png)
+![Profile](screenshots/profile.jpeg)
 
 ### ✏️ Modifier le profil
-![Edit Profile](screenshots/edit_profile.png)
+![Edit Profile](screenshots/edit_profile.jpeg)
 
 ### 🎙️ Enregistrement audio
-![Audio Recording](screenshots/audio_recording.png)
+![Audio Recording](screenshots/audio_recording.jpeg)
 
 ### ✍️ Indicateur "En train d'écrire"
-![Typing Indicator](screenshots/typing_indicator.png)
+![Typing Indicator](screenshots/typing_indicator.jpeg)
 
 ### 🖼️ Prévisualisation d’image
-![Image Preview](screenshots/image_preview.png)
+![Image Preview](screenshots/image_preview.jpeg)
 
 ### 🔍 Recherche
-![Search](screenshots/search.png)
+![Search](screenshots/search.jpeg)
 
 ### 🚪 Logout
-![Logout](screenshots/logout.png)
+![Logout](screenshots/logout.jpeg)
 
 ### ⚙️ Paramètres
-![Settings](screenshots/settings.png)
+![Settings](screenshots/settings.jpeg)
 
 ---
 
