@@ -160,48 +160,86 @@ flutter run -d android
 
 ## 📸 Screenshots
 
-### 🔐 Login
-![Login](screenshots/login.jpeg)
+<!-- Ligne 1 -->
+<p float="left" align="center">
+  <figure style="display:inline-block; margin:10px;">
+    <img src="screenshots/login.jpeg" width="250" />
+    <figcaption>🔐 Login</figcaption>
+  </figure>
 
-### 📝 Register
-![Register](screenshots/register.jpeg)
+  <figure style="display:inline-block; margin:10px;">
+    <img src="screenshots/register.jpeg" width="250" />
+    <figcaption>📝 Register</figcaption>
+  </figure>
 
-### 🏠 Home (Conversations)
-![Home](screenshots/home.jpeg)
+  <figure style="display:inline-block; margin:10px;">
+    <img src="screenshots/home.jpeg" width="250" />
+    <figcaption>🏠 Home</figcaption>
+  </figure>
+</p>
 
-### 💬 Chat 1-to-1
-![Chat](screenshots/chat.jpeg)
+<!-- Ligne 2 -->
+<p float="left" align="center">
+  <figure style="display:inline-block; margin:10px;">
+    <img src="screenshots/chat.jpeg" width="250" />
+    <figcaption>💬 Chat 1-to-1</figcaption>
+  </figure>
 
-### 👥 Group Chat
-![Group Chat](screenshots/group_chat.jpeg)
+  <figure style="display:inline-block; margin:10px;">
+    <img src="screenshots/group_chat.jpeg" width="250" />
+    <figcaption>👥 Group Chat</figcaption>
+  </figure>
 
-### 👤 Profil utilisateur
-![Profile](screenshots/profile.jpeg)
+  <figure style="display:inline-block; margin:10px;">
+    <img src="screenshots/profile.jpeg" width="250" />
+    <figcaption>👤 Profil utilisateur</figcaption>
+  </figure>
+</p>
 
-### ✏️ Modifier le profil
-![Edit Profile](screenshots/group.jpeg)
+<!-- Ligne 3 -->
+<p float="left" align="center">
+  <figure style="display:inline-block; margin:10px;">
+    <img src="screenshots/group.jpeg" width="250" />
+    <figcaption>✏️ Modifier le profil</figcaption>
+  </figure>
 
-### 🎙️ Enregistrement audio
-![Audio Recording](screenshots/audio_recording.jpeg)
+  <figure style="display:inline-block; margin:10px;">
+    <img src="screenshots/audio_recording.jpeg" width="250" />
+    <figcaption>🎙️ Enregistrement audio</figcaption>
+  </figure>
 
-### ✍️ Indicateur "En train d'écrire"
-![Typing Indicator](screenshots/typing_indicator.jpeg)
+  <figure style="display:inline-block; margin:10px;">
+    <img src="screenshots/typing_indicator.jpeg" width="250" />
+    <figcaption>✍️ Indicateur "En train d'écrire"</figcaption>
+  </figure>
+</p>
 
-### 🔍 Recherche
-![Search](screenshots/search.jpeg)
+<!-- Ligne 4 -->
+<p float="left" align="center">
+  <figure style="display:inline-block; margin:10px;">
+    <img src="screenshots/search.jpeg" width="250" />
+    <figcaption>🔍 Recherche</figcaption>
+  </figure>
 
-### 🚪 Logout
-![Logout](screenshots/logout.jpeg)
+  <figure style="display:inline-block; margin:10px;">
+    <img src="screenshots/logout.jpeg" width="250" />
+    <figcaption>🚪 Logout</figcaption>
+  </figure>
 
-### ⚙️ Paramètres
-![Settings](screenshots/settings.jpeg)
+  <figure style="display:inline-block; margin:10px;">
+    <img src="screenshots/settings.jpeg" width="250" />
+    <figcaption>⚙️ Paramètres</figcaption>
+  </figure>
+</p>
 
-### 🌙 Mode sombre
-![Dark Mode](screenshots/darck_mode.jpeg
+<!-- Ligne 5 -->
+<p float="left" align="center">
+  <figure style="display:inline-block; margin:10px;">
+    <img src="screenshots/darck_mode.jpeg" width="250" />
+    <figcaption>🌙 Mode sombre</figcaption>
+  </figure>
+</p>
 
-<img src="screenshots/register.jpeg" width="300">
-<img src="screenshots/login.jpeg" width="300">
-<img src="screenshots/home.jpeg" width="300">
 ---
 
 ## 📌 Améliorations futures
