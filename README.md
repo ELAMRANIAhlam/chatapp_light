@@ -168,11 +168,11 @@ flutter run -d android
 |----------------|----------------|------------------------|
 | <img src="screenshots/chat.jpeg" width="200"> | <img src="screenshots/group_chat.jpeg" width="200"> | <img src="screenshots/profile.jpeg" width="200"> |
 
-| ✏️ Modifier le profil | 🎙️ Indicateur "Enregistrement audio" | ✍️ Indicateur "En train d'écrire" |
+| ✏️ Création groupe | 🎙️ Indicateur "Enregistrement audio" | ✍️ Indicateur "En train d'écrire" |
 |------------------------|--------------------------|-----------------------------------|
 | <img src="screenshots/group.jpeg" width="200"> | <img src="screenshots/audio_recording.jpeg" width="200"> | <img src="screenshots/typing_indicator.jpeg" width="200"> |
 
-| 💬 Message supprimé | 🔍 Recherche | 📱 Notifications |
+| 💬 Suppression/Modification message | 🔍 Recherche | 📱 Notifications |
 |--------------|-----------|----------------|
 | <img src="screenshots/message_deleted.jpeg" width="200"> | <img src="screenshots/search.jpeg" width="200"> | <img src="screenshots/notifications.jpeg" width="200"> |
 
