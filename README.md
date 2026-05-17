@@ -172,13 +172,13 @@ flutter run -d android
 |------------------------|--------------------------|-----------------------------------|
 | <img src="screenshots/group.jpeg" width="200"> | <img src="screenshots/audio_recording.jpeg" width="200"> | <img src="screenshots/typing_indicator.jpeg" width="200"> |
 
-| 🔍 Recherche | ⚙️ Paramètres | 🌙 Mode sombre |
+| 💬 Message supprimé | 🔍 Recherche | 📱 Notifications |
 |--------------|-----------|----------------|
-| <img src="screenshots/search.jpeg" width="200"> | <img src="screenshots/settings.jpeg" width="200"> | <img src="screenshots/darck_mode.jpeg" width="200"> |
+| <img src="screenshots/message_deleted.jpeg" width="200"> | <img src="screenshots/search.jpeg" width="200"> | <img src="screenshots/notifications.jpeg" width="200"> |
 
-| 🚪 Logout |  |  |
+| ⚙️ Paramètres | 🌙 Mode sombre | 🚪 Logout |
 |----------------|----|----|
-| <img src="screenshots/logout.jpeg" width="200"> |  |  |
+| <img src="screenshots/settings.jpeg" width="200"> | <img src="screenshots/darck_mode.jpeg" width="200"> | <img src="screenshots/logout.jpeg" width="200"> |
 
 ---
 
