@@ -168,17 +168,17 @@ flutter run -d android
 |----------------|----------------|------------------------|
 | <img src="screenshots/chat.jpeg" width="200"> | <img src="screenshots/group_chat.jpeg" width="200"> | <img src="screenshots/profile.jpeg" width="200"> |
 
-| ✏️ Modifier le profil | 🎙️ Enregistrement audio | ✍️ Indicateur "En train d'écrire" |
+| ✏️ Modifier le profil | 🎙️ Indicateur "Enregistrement audio" | ✍️ Indicateur "En train d'écrire" |
 |------------------------|--------------------------|-----------------------------------|
 | <img src="screenshots/group.jpeg" width="200"> | <img src="screenshots/audio_recording.jpeg" width="200"> | <img src="screenshots/typing_indicator.jpeg" width="200"> |
 
-| 🔍 Recherche | 🚪 Logout | ⚙️ Paramètres |
+| 🔍 Recherche | ⚙️ Paramètres | 🌙 Mode sombre |
 |--------------|-----------|----------------|
-| <img src="screenshots/search.jpeg" width="200"> | <img src="screenshots/logout.jpeg" width="200"> | <img src="screenshots/settings.jpeg" width="200"> |
+| <img src="screenshots/search.jpeg" width="200"> | <img src="screenshots/settings.jpeg" width="200"> | <img src="screenshots/darck_mode.jpeg" width="200"> |
 
-| 🌙 Mode sombre |  |  |
+| 🚪 Logout |  |  |
 |----------------|----|----|
-| <img src="screenshots/darck_mode.jpeg" width="200"> |  |  |
+| <img src="screenshots/logout.jpeg" width="200"> |  |  |
 
 ---
 
