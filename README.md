@@ -179,16 +179,13 @@ flutter run -d android
 ![Profile](screenshots/profile.jpeg)
 
 ### ✏️ Modifier le profil
-![Edit Profile](screenshots/edit_profile.jpeg)
+![Edit Profile](screenshots/group.jpeg)
 
 ### 🎙️ Enregistrement audio
 ![Audio Recording](screenshots/audio_recording.jpeg)
 
 ### ✍️ Indicateur "En train d'écrire"
 ![Typing Indicator](screenshots/typing_indicator.jpeg)
-
-### 🖼️ Prévisualisation d’image
-![Image Preview](screenshots/image_preview.jpeg)
 
 ### 🔍 Recherche
 ![Search](screenshots/search.jpeg)
@@ -198,6 +195,9 @@ flutter run -d android
 
 ### ⚙️ Paramètres
 ![Settings](screenshots/settings.jpeg)
+
+### 🌙 Mode sombre
+![Dark Mode](screenshots/darck_mode.jpeg
 
 ---
 
