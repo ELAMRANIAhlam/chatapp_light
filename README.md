@@ -160,85 +160,25 @@ flutter run -d android
 
 ## 📸 Screenshots
 
-<!-- Ligne 1 -->
-<p float="left" align="center">
-  <figure style="display:inline-block; margin:10px;">
-    <img src="screenshots/login.jpeg" width="250" />
-    <figcaption>🔐 Login</figcaption>
-  </figure>
+| 🔐 Login | 📝 Register | 🏠 Home |
+|---------|-------------|---------|
+| <img src="screenshots/login.jpeg" width="200"> | <img src="screenshots/register.jpeg" width="200"> | <img src="screenshots/home.jpeg" width="200"> |
 
-  <figure style="display:inline-block; margin:10px;">
-    <img src="screenshots/register.jpeg" width="250" />
-    <figcaption>📝 Register</figcaption>
-  </figure>
+| 💬 Chat 1-to-1 | 👥 Group Chat | 👤 Profil utilisateur |
+|----------------|----------------|------------------------|
+| <img src="screenshots/chat.jpeg" width="200"> | <img src="screenshots/group_chat.jpeg" width="200"> | <img src="screenshots/profile.jpeg" width="200"> |
 
-  <figure style="display:inline-block; margin:10px;">
-    <img src="screenshots/home.jpeg" width="250" />
-    <figcaption>🏠 Home</figcaption>
-  </figure>
-</p>
+| ✏️ Modifier le profil | 🎙️ Enregistrement audio | ✍️ Indicateur "En train d'écrire" |
+|------------------------|--------------------------|-----------------------------------|
+| <img src="screenshots/group.jpeg" width="200"> | <img src="screenshots/audio_recording.jpeg" width="200"> | <img src="screenshots/typing_indicator.jpeg" width="200"> |
 
-<!-- Ligne 2 -->
-<p float="left" align="center">
-  <figure style="display:inline-block; margin:10px;">
-    <img src="screenshots/chat.jpeg" width="250" />
-    <figcaption>💬 Chat 1-to-1</figcaption>
-  </figure>
+| 🔍 Recherche | 🚪 Logout | ⚙️ Paramètres |
+|--------------|-----------|----------------|
+| <img src="screenshots/search.jpeg" width="200"> | <img src="screenshots/logout.jpeg" width="200"> | <img src="screenshots/settings.jpeg" width="200"> |
 
-  <figure style="display:inline-block; margin:10px;">
-    <img src="screenshots/group_chat.jpeg" width="250" />
-    <figcaption>👥 Group Chat</figcaption>
-  </figure>
-
-  <figure style="display:inline-block; margin:10px;">
-    <img src="screenshots/profile.jpeg" width="250" />
-    <figcaption>👤 Profil utilisateur</figcaption>
-  </figure>
-</p>
-
-<!-- Ligne 3 -->
-<p float="left" align="center">
-  <figure style="display:inline-block; margin:10px;">
-    <img src="screenshots/group.jpeg" width="250" />
-    <figcaption>✏️ Modifier le profil</figcaption>
-  </figure>
-
-  <figure style="display:inline-block; margin:10px;">
-    <img src="screenshots/audio_recording.jpeg" width="250" />
-    <figcaption>🎙️ Enregistrement audio</figcaption>
-  </figure>
-
-  <figure style="display:inline-block; margin:10px;">
-    <img src="screenshots/typing_indicator.jpeg" width="250" />
-    <figcaption>✍️ Indicateur "En train d'écrire"</figcaption>
-  </figure>
-</p>
-
-<!-- Ligne 4 -->
-<p float="left" align="center">
-  <figure style="display:inline-block; margin:10px;">
-    <img src="screenshots/search.jpeg" width="250" />
-    <figcaption>🔍 Recherche</figcaption>
-  </figure>
-
-  <figure style="display:inline-block; margin:10px;">
-    <img src="screenshots/logout.jpeg" width="250" />
-    <figcaption>🚪 Logout</figcaption>
-  </figure>
-
-  <figure style="display:inline-block; margin:10px;">
-    <img src="screenshots/settings.jpeg" width="250" />
-    <figcaption>⚙️ Paramètres</figcaption>
-  </figure>
-</p>
-
-<!-- Ligne 5 -->
-<p float="left" align="center">
-  <figure style="display:inline-block; margin:10px;">
-    <img src="screenshots/darck_mode.jpeg" width="250" />
-    <figcaption>🌙 Mode sombre</figcaption>
-  </figure>
-</p>
+| 🌙 Mode sombre |  |  |
+|----------------|----|----|
+| <img src="screenshots/darck_mode.jpeg" width="200"> |  |  |
 
 ---
 
