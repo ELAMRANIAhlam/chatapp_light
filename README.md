@@ -199,6 +199,9 @@ flutter run -d android
 ### 🌙 Mode sombre
 ![Dark Mode](screenshots/darck_mode.jpeg
 
+<img src="screenshots/register.jpeg" width="300">
+<img src="screenshots/login.jpeg" width="300">
+<img src="screenshots/home.jpeg" width="300">
 ---
 
 ## 📌 Améliorations futures
