@@ -192,7 +192,7 @@ flutter run -d android
 ---
 
 ## 👩‍💻 Auteur
-Ahlam EL AMRANI  
+EL AMRANI Ahlam  
 Développeuse Mobile & Backend
 📍 ENIAB
 🔗 GitHub : https://github.com/ELAMRANIAhlam
