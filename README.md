@@ -160,44 +160,25 @@ flutter run -d android
 
 ## 📸 Screenshots
 
-### 🔐 Login
-![Login](screenshots/login.jpeg)
+| 🔐 Login | 📝 Register | 🏠 Home |
+|---------|-------------|---------|
+| <img src="screenshots/login.jpeg" width="200"> | <img src="screenshots/register.jpeg" width="200"> | <img src="screenshots/home.jpeg" width="200"> |
 
-### 📝 Register
-![Register](screenshots/register.jpeg)
+| 💬 Chat 1-to-1 | 👥 Group Chat | 👤 Profil utilisateur |
+|----------------|----------------|------------------------|
+| <img src="screenshots/chat.jpeg" width="200"> | <img src="screenshots/group_chat.jpeg" width="200"> | <img src="screenshots/profile.jpeg" width="200"> |
 
-### 🏠 Home (Conversations)
-![Home](screenshots/home.jpeg)
+| ✏️ Modifier le profil | 🎙️ Indicateur "Enregistrement audio" | ✍️ Indicateur "En train d'écrire" |
+|------------------------|--------------------------|-----------------------------------|
+| <img src="screenshots/group.jpeg" width="200"> | <img src="screenshots/audio_recording.jpeg" width="200"> | <img src="screenshots/typing_indicator.jpeg" width="200"> |
 
-### 💬 Chat 1-to-1
-![Chat](screenshots/chat.jpeg)
+| 🔍 Recherche | ⚙️ Paramètres | 🌙 Mode sombre |
+|--------------|-----------|----------------|
+| <img src="screenshots/search.jpeg" width="200"> | <img src="screenshots/settings.jpeg" width="200"> | <img src="screenshots/darck_mode.jpeg" width="200"> |
 
-### 👥 Group Chat
-![Group Chat](screenshots/group_chat.jpeg)
-
-### 👤 Profil utilisateur
-![Profile](screenshots/profile.jpeg)
-
-### ✏️ Modifier le profil
-![Edit Profile](screenshots/group.jpeg)
-
-### 🎙️ Enregistrement audio
-![Audio Recording](screenshots/audio_recording.jpeg)
-
-### ✍️ Indicateur "En train d'écrire"
-![Typing Indicator](screenshots/typing_indicator.jpeg)
-
-### 🔍 Recherche
-![Search](screenshots/search.jpeg)
-
-### 🚪 Logout
-![Logout](screenshots/logout.jpeg)
-
-### ⚙️ Paramètres
-![Settings](screenshots/settings.jpeg)
-
-### 🌙 Mode sombre
-![Dark Mode](screenshots/darck_mode.jpeg
+| 🚪 Logout |  |  |
+|----------------|----|----|
+| <img src="screenshots/logout.jpeg" width="200"> |  |  |
 
 ---
 
